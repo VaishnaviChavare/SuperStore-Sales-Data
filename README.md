@@ -1,6 +1,6 @@
 # SuperStore-Sales-Data
 
-Key insights;
+Key insights:
 
 Total Sales - 1.57M
 Total Profit - 175K
@@ -20,3 +20,6 @@ Southern and Central regions lag behind.
 Consumer segment dominates across all regions.
 
 Consumer segment dominates in all regions, especially in the West.
+
+Technology earns high profit despite moderate sales. Furniture has low profit margins.
+Office Supplies are balanced in both sales and profit.
